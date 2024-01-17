@@ -1,0 +1,12 @@
+echo "ESTE ES UN HOLA MUNDO EN DIFERENTES LENGUAJES!, mira el resultado!"
+echo "Entre los lenguajes de programacion incluidos estan:"
+echo ""
+
+echo "Haskell"
+echo "Assembler x86_64"
+echo "python"
+echo "c++"
+echo "javascript"
+echo "java"
+echo "PHP"
+echo "Shell Script"
